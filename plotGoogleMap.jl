@@ -2,7 +2,7 @@ using Plots, HTTP, LinearAlgebra, Statistics, Geodesy, Images, FileIO, Colors, C
 gr()
 
 """
-Adds an Google-maps image beneath an existing plot. Rescales axes, so all plotting
+Adds a Google-maps image beneath an existing plot. Rescales axes, so all plotting
 should be done before calling plotGoogleMap()
 
 Currently supports simple scatter and line plots.
