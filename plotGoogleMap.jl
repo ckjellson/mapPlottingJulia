@@ -1,4 +1,4 @@
-using Plots, HTTP, CSV, DataFrames, LinearAlgebra, Statistics, Geodesy, Images, FileIO, Colors, CoordinateTransformations, OffsetArrays, Rotations
+using Plots, HTTP, LinearAlgebra, Statistics, Geodesy, Images, FileIO, Colors, CoordinateTransformations, OffsetArrays, Rotations
 gr()
 
 """
