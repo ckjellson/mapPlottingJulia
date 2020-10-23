@@ -1,6 +1,6 @@
 # Julia-visualization
 
-Functions for plotting on downloaded map images from Google maps and Open street map.
+Functions for plotting on downloaded images from Google maps and Open street map.
 
 ## plotGoogleMap()
 
