@@ -1,5 +1,7 @@
 # Julia-visualization
 
+Functions for plotting on downloaded map images from Google maps and Open street map.
+
 ## plotGoogleMap()
 
 Downloads an image from Google maps and plots an existing line/scatter-plot on top of the image. (Requires api-key)
